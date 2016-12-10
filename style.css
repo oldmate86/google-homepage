@@ -1,0 +1,65 @@
+.logo{
+	margin-top: 275px;
+	
+}
+
+.aus{
+	
+	color: #4285f4;
+	font: 16px/16px roboto-regular, arial, sans-serif;
+	margin-left: 1030px;
+	margin-top: -15px
+}
+.search{
+	margin-left: 800px;
+	margin-top: 25px;
+}
+.lucky{
+	margin-left: 945px;
+	margin-top: -27.5px;
+}
+.header a {
+text-decoration: none;
+color: gray;
+} 
+.header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: : 0;
+    overflow: hidden;
+    background-color: rgba(251, 251, 247, 1);
+}
+	
+.header li {
+	display: inline;
+	float: right;
+	padding-right: 10px;
+	}
+
+.footer {
+	text-decoration: none;
+	color: gray;
+	position: fixed ;
+	height: 30px;
+	bottom: 10;
+	float: right;
+	display: inline;
+
+		
+	}
+
+.footer ul {
+	list-style-type: none;
+	margin: 0;
+	padding:20px;
+	overflow: hidden;
+	background-color: rgba(251, 251, 247, 1); 
+}
+
+.footer li {
+	display: inline;
+	
+	padding-right: 30px;
+}
+
+	
